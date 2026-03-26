@@ -214,7 +214,6 @@ jobs:
           #now_line \
           #basal_lock \
           #live_activity
-
           # the final customization listed above CANNOT have a continuation character
           # more customizations can be pasted after this line
           
